@@ -59,6 +59,7 @@ function updateJohnsProfession() {
       data[i]["profession"] = "manager";
     }
   }
+  console.log(data);
 }
 
 // 10. Profession Count
